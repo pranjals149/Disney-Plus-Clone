@@ -1,6 +1,6 @@
 <h1 align='center'>Disney+ Clone</h1>
 
-<p align='center'><img src="https://secure-media.hotstarext.com/web-assets/prod/images/brand-logos/disney-hotstar-logo-dark.svg" /></p>
+<p align='center'><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" /></p>
 
 A Disney+ Clone made by using **React** + **Styled-Components** + **Redux** + **Firebase**.
 
