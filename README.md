@@ -15,6 +15,6 @@ A Disney+ Clone made by using **React** + **Styled-Components** + **Redux** + **
 *The project will be started in local development mode on http://localhost:3000/*
 
 ### Working Screenshot
-<img src='disney-plus.gif' />
+<img src='https://github.com/pranjals149/acevent/blob/master/Disney-plus.gif?raw=true' />
 
 *Hope you like the project !!*
